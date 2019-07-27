@@ -1,1 +1,1 @@
-# rover
+# Django Project
